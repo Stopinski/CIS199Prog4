@@ -1,0 +1,12 @@
+B:\UofL\Spr15\CIS199\Prog4\Prog4\bin\Debug\Prog4.exe.config
+B:\UofL\Spr15\CIS199\Prog4\Prog4\obj\Debug\Prog4.csprojResolveAssemblyReference.cache
+B:\UofL\Spr15\CIS199\Prog4\Prog4\obj\Debug\Prog4.Prog4.resources
+B:\UofL\Spr15\CIS199\Prog4\Prog4\obj\Debug\Prog4.Properties.Resources.resources
+B:\UofL\Spr15\CIS199\Prog4\Prog4\obj\Debug\Prog4.csproj.GenerateResource.Cache
+B:\UofL\Spr15\CIS199\Prog4\Prog4\bin\Debug\Prog4.exe
+B:\UofL\Spr15\CIS199\Prog4\Prog4\bin\Debug\Prog4.pdb
+B:\UofL\Spr15\CIS199\Prog4\Prog4\obj\Debug\Prog4.exe
+B:\UofL\Spr15\CIS199\Prog4\Prog4\obj\Debug\Prog4.pdb
+B:\UofL\Archive\Spr15\CIS199\Prog4\Prog4\bin\Debug\Prog4.exe.config
+B:\UofL\Archive\Spr15\CIS199\Prog4\Prog4\obj\Debug\Prog4.exe
+B:\UofL\Archive\Spr15\CIS199\Prog4\Prog4\obj\Debug\Prog4.pdb
